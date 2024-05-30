@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 ## Instagram Clone Course Demo App
 
@@ -18,3 +19,6 @@
 -   `php artisan serve`
 
 then choose a user from the database and login.
+=======
+# mini-project
+>>>>>>> 94123613bdd9c2619d32042c8f577a7a1932943e
